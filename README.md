@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Online paddy farming management**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Angular.js**
 
 - 💬 Ask me about **MEARN**
 
