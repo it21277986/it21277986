@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lakmal thathsara" target="blank"><img src="https://img.shields.io/twitter/follow/lakmal thathsara?logo=twitter&style=for-the-badge" alt="lakmal thathsara" /></a> </p>
 
-- 🔭 I’m currently working on **Online paddy farming management**
+- 🔭 I’m currently working on **Urban Edge**
 
 - 🌱 I’m currently learning **Angular.js**
 
