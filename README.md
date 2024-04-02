@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/lakmal thathsara" target="blank"><img src="https://img.shields.io/twitter/follow/lakmal thathsara?logo=twitter&style=for-the-badge" alt="lakmal thathsara" /></a> </p>
 
-- 🔭 I’m currently working on **Urban Edge**
+- 🔭 I’m currently working on **Green BIN**
 
-- 🌱 I’m currently learning **Angular.js**
+- 🌱 I’m currently learning **Angular.js / UI/UX**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **React.js or Figma**
 
 - 📫 How to reach me **lakmalthathsara2000@gmail.com**
 
