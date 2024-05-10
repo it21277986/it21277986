@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Green BIN** (Garbage Management System)
 
-- 🌱 I’m currently learning **Angular.js / UI/UX**
+- 🌱 I’m currently learning **Angular.js & UI/UX**
 
 - 💬 Ask me about **React.js or Figma**
 
