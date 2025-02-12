@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Lakmal Thathsara</h1>
-<h3 align="center">A passionate Frontend Developer & UI/UX Designer from Sri Lanka</h3>
+<h3 align="center">A passionate UI/UX Designer & Frontend Developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTQxbWt0ZzIya29kcW5vcW9lYWVzZzh5bzRvNnAwNW1wdGltOHRkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21277986&label=Profile%20views&color=0e75b6&style=flat" alt="it21277986" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lakmal thathsara" target="blank"><img src="https://img.shields.io/twitter/follow/lakmal thathsara?logo=twitter&style=for-the-badge" alt="lakmal thathsara" /></a> </p>
 
-- 🔭 I’m currently working on **Green BIN** (Garbage Management System)
+- 🔭 I’m currently working on **Learning Management System**
 
-- 🌱 I’m currently learning **Angular.js & UI/UX**
+- 🌱 I’m currently learning **Next.js & UI/UX**
 
-- 💬 Ask me about **React.js or Figma**
+- 💬 Ask me about **Next.js or Figma**
 
 - 📫 How to reach me **lakmalthathsara2000@gmail.com**
 
