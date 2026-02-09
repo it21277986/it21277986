@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/lakmal thathsara" target="blank"><img src="https://img.shields.io/twitter/follow/lakmal thathsara?logo=twitter&style=for-the-badge" alt="lakmal thathsara" /></a> </p>
 
-- 🔭 I’m currently working on **Learning Management System**
+- 🔭 I’m currently working on **HashBaze**
 
-- 🌱 I’m currently learning **Next.js & UI/UX**
+- 🌱 I’m currently learning **UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://lakmal-thathsara-portfolio.netlify.app/](https://lakmal-thathsara-portfolio.netlify.app/)
 
