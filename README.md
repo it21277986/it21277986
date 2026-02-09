@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lakmal-thathsara-portfolio.netlify.app/](https://lakmal-thathsara-portfolio.netlify.app/)
 
-- 💬 Ask me about **Next.js or Figma**
+- 💬 Ask me about **UI/UX Engineering**
 
 - 📫 How to reach me **lakmalthathsara2000@gmail.com**
 
